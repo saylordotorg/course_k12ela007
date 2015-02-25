@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA007: English Language Arts 7"
+course_description: "This course will teach you how to analyze themes and structure in fiction and nonfiction texts, develop vocabulary, and continually improve your writing."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Fiction Novel Unit: *Little Women* by Louisa May Alcott**
 <span id="6"></span> 
 *In this unit, you will read a work of classic literature, analyzing how

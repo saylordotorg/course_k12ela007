@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA007: English Language Arts 7"
+course_description: "This course will teach you how to analyze themes and structure in fiction and nonfiction texts, develop vocabulary, and continually improve your writing."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Research Writing** <span id="8"></span> 
 *This unit is an introduction to research writing. You will review a
 model paper for organization and strengths. You will also learn about

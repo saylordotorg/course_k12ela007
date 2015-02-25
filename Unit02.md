@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA007: English Language Arts 7"
+course_description: "This course will teach you how to analyze themes and structure in fiction and nonfiction texts, develop vocabulary, and continually improve your writing."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Fiction Novel Unit: The Adventures of Tom Sawyer by Mark
 Twain** <span id="2"></span> 
 *In this unit, you will read a work of classic literature, analyzing how

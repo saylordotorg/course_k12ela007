@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA007: English Language Arts 7"
+course_description: "This course will teach you how to analyze themes and structure in fiction and nonfiction texts, develop vocabulary, and continually improve your writing."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Persuasive Writing** <span id="7"></span> 
 *In this unit, you will become familiar with the powers of persuasion in
 print and advertising by analyzing images and wording used to sway the

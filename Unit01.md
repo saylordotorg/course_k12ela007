@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA007: English Language Arts 7"
+course_description: "This course will teach you how to analyze themes and structure in fiction and nonfiction texts, develop vocabulary, and continually improve your writing."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Telling a Story** <span id="1"></span> 
 *In this unit, you will read four different short stories and identify
 the “parts of a story” in each in order to learn how they are relevant

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA007: English Language Arts 7"
+course_description: "This course will teach you how to analyze themes and structure in fiction and nonfiction texts, develop vocabulary, and continually improve your writing."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Writing for Information** <span id="3"></span> 
 *In this unit, you will become familiar with writing nonfiction works.
 You will read two news articles by different authors on the same topic,

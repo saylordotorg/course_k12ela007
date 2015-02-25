@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA007: English Language Arts 7"
+course_description: "This course will teach you how to analyze themes and structure in fiction and nonfiction texts, develop vocabulary, and continually improve your writing."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Nonfiction Novel Unit: Narrative of the Life of Frederick
 Douglass, an American Slave by Frederick Douglass** <span
 id="9"></span> 

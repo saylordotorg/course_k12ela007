@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA007: English Language Arts 7"
+course_description: "This course will teach you how to analyze themes and structure in fiction and nonfiction texts, develop vocabulary, and continually improve your writing."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "K12ELA007: English Language Arts 7"
 --------------------------------------------------------
 
