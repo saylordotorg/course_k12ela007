@@ -1,6 +1,16 @@
 Course Syllabus for "K12ELA007: English Language Arts 7"
 --------------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_k12ela007) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 In seventh-grade English Language Arts, you will read a variety of short
 and full-length fiction and nonfiction texts, becoming more independent
 in your ability to analyze themes and structure. Explaining an author’s
