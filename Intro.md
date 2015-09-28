@@ -116,3 +116,4 @@ regular seventh-grade English class that would last for 36 weeks with
 - [Unit 7](https://legacy.saylor.org/k12ela007/Unit07/)
 - [Unit 8](https://legacy.saylor.org/k12ela007/Unit08/)
 - [Unit 9](https://legacy.saylor.org/k12ela007/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12ELA007/K12ELA007-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12ELA007/K12ELA007-FinalExam-Answers.html)
