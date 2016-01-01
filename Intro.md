@@ -8,6 +8,14 @@ previous: ../../../
 Course Syllabus for "K12ELA007: English Language Arts 7"
 --------------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_k12ela007) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 In seventh-grade English Language Arts, you will read a variety of short
 and full-length fiction and nonfiction texts, becoming more independent
 in your ability to analyze themes and structure. Explaining an author’s
@@ -102,4 +110,15 @@ complete it. If you do not pass the exam, you may take it again.
 regular seventh-grade English class that would last for 36 weeks with
 45-minute-long classes (plus homework).  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/k12ela007/Unit01/)
+- [Unit 2](https://legacy.saylor.org/k12ela007/Unit02/)
+- [Unit 3](https://legacy.saylor.org/k12ela007/Unit03/)
+- [Unit 4](https://legacy.saylor.org/k12ela007/Unit04/)
+- [Unit 5](https://legacy.saylor.org/k12ela007/Unit05/)
+- [Unit 6](https://legacy.saylor.org/k12ela007/Unit06/)
+- [Unit 7](https://legacy.saylor.org/k12ela007/Unit07/)
+- [Unit 8](https://legacy.saylor.org/k12ela007/Unit08/)
+- [Unit 9](https://legacy.saylor.org/k12ela007/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12ELA007/K12ELA007-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12ELA007/K12ELA007-FinalExam-Answers.html)
