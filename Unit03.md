@@ -272,7 +272,7 @@ Is a Tragedy” by Ernest Hemingway** <span id="3.1.3"></span> 
 id="3.1.5"></span> 
 -   **Activity: Freeology: “Question Mark Organizer”**
     Link: Freeology: [“Question Mark
-    Organizer”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.1.5-QuestionMarkOrganizer-BY-SA.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.1.5-QuestionMarkOrganizer-BY-SA.pdf) (PDF)  
         
      Instructions: To practice summarizing the article that you read,
     print the “Question Mark Organizer.” Identify the 5 Ws and an H in
@@ -412,7 +412,7 @@ writing your own expository essays later in the unit. *
     Link: Brenda Tapson’s *Ms. Tapson*: [“Writing
     Instructions”](http://resources.saylor.org/K12ELA/K12ELA007/Unit%203/K12ELA7-3.2.4-Writing%20Instructions-BY-SA_files/K12ELA7-3.2.4-Writing%20Instructions-BY-SA.html) (HTML)
     and [“Mathematical
-    Mayhem”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.2.4-Mathmatical-Mayhem-BY-SA.pdf) (PDF)  
+    Mayhem”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.2.4-Mathmatical-Mayhem-BY-SA.pdf) (PDF)  
         
      Instructions: Later in the unit, you will be writing a “how-to”
     essay, also known as written instructions. Use the link above to
@@ -476,7 +476,7 @@ essay. *
 **3.3.2 Paragraph Setup** <span id="3.3.2"></span> 
 -   **Activity: Tricia Miller’s *MillerLA*: “Informative Essay Frame”**
     Link: Tricia Miller’s *Mille LA*: [“Informative Essay
-    Frame”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.3.2-InformativeEssayFrame-BY-SA.pdf) (PDF)  
+    Frame”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.3.2-InformativeEssayFrame-BY-SA.pdf) (PDF)  
         
      Instructions: When writing an essay, it is important that your
     information is well organized. Print the document above and
@@ -561,7 +561,7 @@ id="3.3.3"></span> 
 **3.3.5 Model Essay** <span id="3.3.5"></span> 
 -   **Explanation: The Saylor Foundation’s “Sample Article Summary”**
     Link: The Saylor Foundation’s [“Sample Article
-    Summary”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-FLC-Unit-3-Sample-article-summary.pdf) (PDF)  
+    Summary”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-FLC-Unit-3-Sample-article-summary.pdf) (PDF)  
         
      Instructions: Read the sample article summary and pay close
     attention to how it is organized and how details are used from the
@@ -668,7 +668,7 @@ Hardened Sport” by Raphael Minder** <span id="3.3.7"></span> 
 **3.3.8.5 Ws and an H** <span id="3.3.8.5"></span> 
 -   **Reading: Freeology: “Question Mark Organizer”**
     Link: Freeology: [“Question Mark
-    Organizer”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.1.5-QuestionMarkOrganizer-BY-SA.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.1.5-QuestionMarkOrganizer-BY-SA.pdf) (PDF)  
         
      Instructions: To practice summarizing the article that you read,
     print the “Question Mark Organizer.” Identify the 5 Ws and an H in
@@ -696,7 +696,7 @@ Hardened Sport” by Raphael Minder** <span id="3.3.7"></span> 
 **3.3.9 Informative Essay Organizer** <span id="3.3.9"></span> 
 -   **Activity: Tricia Miller’s *MillerLA*: “Informative Essay Frame”**
     Link: Tricia Miller’s *MillerLA*: [“Informative Essay
-    Frame”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.3.2-InformativeEssayFrame-BY-SA.pdf) (PDF)  
+    Frame”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.3.2-InformativeEssayFrame-BY-SA.pdf) (PDF)  
         
      Instructions: Either print this document or copy the essay frame
     into your notebook. Using the modern bullfighting article that you
@@ -759,7 +759,7 @@ Hardened Sport” by Raphael Minder** <span id="3.3.7"></span> 
 -   **Activity: The Saylor Foundation’s “Five-Paragraph Essay Writing
     Rubric”**
     Link: The Saylor Foundation’s [“Five-Paragraph Essay Writing
-    Rubric”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.3.9.2-FiveParagraphRubric-BY-SA.pdf) (PDF)  
+    Rubric”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.3.9.2-FiveParagraphRubric-BY-SA.pdf) (PDF)  
         
      Instructions: When you are finished writing and reviewing your
     essay, use this rubric to assess it.  
@@ -819,7 +819,7 @@ id="3.4.1"></span> 
     Compare-and-Contrast Essay”**
     Link: *Writing for Success*: [“Chapter 15, Section 8:
     Compare-and-Contrast
-    Essay”](http://www.saylor.org/site/textbooks/Writing%20for%20Success.pdf) (PDF)  
+    Essay”](https://resources.saylor.org/archived/textbooks/Writing%20for%20Success.pdf) (PDF)  
         
      Instructions: Before you start on your own compare-and-contrast
     piece, read this model essay on pages 607 - 608. Carefully review
@@ -920,7 +920,7 @@ id="3.4.4"></span> 
     “Compare and Contrast Essay Writing Project”**
     Link: Gary Morecraft’s *Pan-Asian International School*: [“Compare
     and Contrast Essay
-    Project”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.4.5-CompareAndContrastEssayWritingProject.pdf) (PDF)  
+    Project”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.4.5-CompareAndContrastEssayWritingProject.pdf) (PDF)  
         
      Instructions: Have the bullfighting articles and Venn diagram
     handy. Open the above document and complete the first page,
@@ -1065,9 +1065,9 @@ some sample essays, and complete grammar lessons. *
 -   **Activity: The Saylor Foundation’s “Directions for Written
     Instructions” and “Written Instructions Graphic Organizer”**
     Link: The Saylor Foundation’s [“Directions for Written
-    Instructions”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.5.4-WrittenInstructionsDirections.pdf) (PDF)
+    Instructions”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.5.4-WrittenInstructionsDirections.pdf) (PDF)
     and [“Written Instructions Graphic
-    Organizer”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.5.4-WrittenInstructionOrganizer.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.5.4-WrittenInstructionOrganizer.pdf) (PDF)  
         
      Instructions: You are now ready to start working on your “how-to”
     essay. To begin, choose a topic or procedure that you know well so
@@ -1161,7 +1161,7 @@ some sample essays, and complete grammar lessons. *
 **Unit 3 Assessment** <span id="3.6"></span> 
 -   **Activity: The Saylor Foundation’s “Unit 3 Review”**
     Link: The Saylor Foundation’s [“Unit 3
-    Review”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.5.6-Review.pdf) (PDF)  
+    Review”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.5.6-Review.pdf) (PDF)  
         
      Instructions: Now that you have completed Unit 3, you will prepare
     for the unit assessment. Use the link above to assist you in
@@ -1171,12 +1171,12 @@ some sample essays, and complete grammar lessons. *
 
 -   **Checkpoint: The Saylor Foundation’s “Unit 3 Checkpoint”**
     Link: The Saylor Foundation’s [“Unit 3
-    Checkpoint”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.6-Checkpoint.pdf) (PDF)  
+    Checkpoint”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.6-Checkpoint.pdf) (PDF)  
         
      Instructions: To complete Unit 3, you need to pass the unit
     checkpoint. You cannot use your notes while taking the exam. Check
     your answers with the [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-3.6-CheckpointAnswerKey.pdf) when
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-3.6-CheckpointAnswerKey.pdf) when
     you are done. In order to pass, you need to answer 7 out of 10
     questions correctly. If you do not pass the first time, review your
     notes and retake the test until you do.  
