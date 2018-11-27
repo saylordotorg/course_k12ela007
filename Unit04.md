@@ -176,7 +176,7 @@ comprehension.*
 -   **Activity: The Saylor Foundation’s “Vocabulary for Chapters 1 -
     5”**
     Link: The Saylor Foundation’s [“Vocabulary for Chapters 1 -
-    5”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.1.1-KellerVocabulary-Chapters1-5.pdf) (PDF)  
+    5”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.1.1-KellerVocabulary-Chapters1-5.pdf) (PDF)  
         
      Instructions: Using this guide, you will complete vocabulary for
     Chapters 1–5, prior to reading the chapters in the next subunit.
@@ -250,7 +250,7 @@ comprehension.*
 -   **Activity: The Saylor Foundation’s “Reading Questions for Chapters
     1 - 5”**
     Link: The Saylor Foundation’s [“Reading Questions for Chapters 1 -
-    5”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.1.2-KellerReadingQuestions-Chapters1-5.pdf) (PDF)  
+    5”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.1.2-KellerReadingQuestions-Chapters1-5.pdf) (PDF)  
         
      Instructions: After you carefully read each chapter, answer the
     questions for that chapter using complete sentences. Make sure to
@@ -317,7 +317,7 @@ of the book. *
 -   **Activity: The Saylor Foundation’s “Vocabulary for Chapters 6 -
     10”**
     Link: The Saylor Foundation’s [“Vocabulary for Chapters 6 -
-    10”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.2.1-KellerVocabulary-Chapters6-10.pdf) (PDF)  
+    10”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.2.1-KellerVocabulary-Chapters6-10.pdf) (PDF)  
         
      Instructions: Using this guide, you will complete vocabulary for
     Chapters 6 - 10, prior to reading the chapters in the next subunit.
@@ -391,7 +391,7 @@ of the book. *
 -   **Activity: The Saylor Foundation’s “Reading Questions for Chapters
     6 - 10”**
     Link: The Saylor Foundation’s [“Reading Questions for Chapters 6 -
-    10”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.2.2-KellerReadingQuestions-Chapters6-10.pdf) (PDF)  
+    10”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.2.2-KellerReadingQuestions-Chapters6-10.pdf) (PDF)  
         
      Instructions: After you carefully read each chapter, answer the
     questions for that chapter using complete sentences. Make sure to
@@ -418,7 +418,7 @@ of the book. *
 **4.3.2.3 Literary Device: Themes** <span id="4.3.2.3"></span> 
 -   **Activity: Freeology: “Themes”**
     Link: Freeology:
-    [“Themes”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.2.3-Themes-BY-SA.pdf) (PDF)  
+    [“Themes”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.2.3-Themes-BY-SA.pdf) (PDF)  
         
      Instructions: In Unit 1, you learned about theme when investigating
     “Parts of a Story.” Theme was identified as the following:  
@@ -463,7 +463,7 @@ context of the book. *
 -   **Activity: The Saylor Foundation’s “Vocabulary for Chapters 11 -
     15”**
     Link: The Saylor Foundation’s [“Vocabulary for Chapters 11 -
-    15”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.3.1-KellerVocabulary-Chapters11-15.pdf) (PDF)  
+    15”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.3.1-KellerVocabulary-Chapters11-15.pdf) (PDF)  
         
      Instructions: Using this guide, complete the vocabulary for
     Chapters 11 - 15 prior to reading the chapters in the next subunit.
@@ -537,7 +537,7 @@ context of the book. *
 -   **Activity: The Saylor Foundation’s “Reading Questions for Chapters
     11 - 15”**
     Link: The Saylor Foundation’s [“Reading Questions for Chapters 11 -
-    15”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.3.2-KellerReadingQuestions-Chapters11-15.pdf) (PDF)  
+    15”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.3.2-KellerReadingQuestions-Chapters11-15.pdf) (PDF)  
         
      Instructions: After you carefully read each chapter, answer the
     questions for that chapter using complete sentences. Make sure to
@@ -600,7 +600,7 @@ the book. *
 -   **Activity: The Saylor Foundation’s “Vocabulary for Chapters 16 -
     20”**
     Link: The Saylor Foundation’s [“Vocabulary for Chapters 16 -
-    20”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.4.1-KellerVocabulary-Chapters16-20.pdf) (PDF)  
+    20”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.4.1-KellerVocabulary-Chapters16-20.pdf) (PDF)  
         
      Instructions: Using this guide, you will complete vocabulary for
     Chapters 16 - 20, prior to reading the chapters in the next subunit.
@@ -674,7 +674,7 @@ the book. *
 -   **Activity: The Saylor Foundation’s “Reading Questions for Chapters
     16 - 20”**
     Link: The Saylor Foundation’s [“Reading Questions for Chapters 16 -
-    20”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.4.2-KellerReadingQuestions-Chapters16-20.pdf) (PDF)  
+    20”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.4.2-KellerReadingQuestions-Chapters16-20.pdf) (PDF)  
         
      Instructions: After you carefully read each chapter, answer the
     questions for that chapter using complete sentences. Make sure to
@@ -701,7 +701,7 @@ the book. *
 **4.3.4.3 Literary Device: Themes** <span id="4.3.4.3"></span> 
 -   **Activity: Freeology: “Themes”**
     Link: Freeology:
-    [“Themes”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.2.3-Themes-BY-SA.pdf) (PDF)  
+    [“Themes”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.2.3-Themes-BY-SA.pdf) (PDF)  
         
      Instructions: Now that you are near the end of the book, you are
     going to reinvestigate themes in Keller’s autobiography. Open the
@@ -741,7 +741,7 @@ of the characters over the course of the book.*
 -   **Activity: The Saylor Foundation’s “Vocabulary for Chapters 21 -
     23”**
     Link: The Saylor Foundation’s [“Vocabulary for Chapters 21 -
-    23”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.5.1-KellerVocabulary-Chapters21-23.pdf) (PDF)  
+    23”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.5.1-KellerVocabulary-Chapters21-23.pdf) (PDF)  
         
      Instructions: Using this guide, you will complete vocabulary for
     Chapters 21 - 23, prior to reading the chapters in the next subunit.
@@ -814,7 +814,7 @@ of the characters over the course of the book.*
 -   **Activity: The Saylor Foundation’s “Reading Questions for Chapters
     21 - 23”**
     Link: The Saylor Foundation’s [“Reading Questions for Chapters 21 -
-    23”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.5.2-KellerReadingQuestions-Chapters21-23.pdf) (PDF)  
+    23”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.5.2-KellerReadingQuestions-Chapters21-23.pdf) (PDF)  
         
      Instructions: After you carefully read each chapter, answer the
     questions for that chapter using complete sentences. Make sure to
@@ -842,7 +842,7 @@ of the characters over the course of the book.*
 id="4.3.5.3"></span> 
 -   **Activity: Freeology: “Character Study”**
     Link: Freeology: [“Character
-    Study”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.3.5.3-CharacterStudy-BY-SA.pdf) (PDF)  
+    Study”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.5.3-CharacterStudy-BY-SA.pdf) (PDF)  
         
      Instructions: Using the link above, open and print document. Using
     the directions provided, fill out the entire organizer. Write from
@@ -895,12 +895,12 @@ id="4.3.5.3"></span> 
 -   **Checkpoint: The Saylor Foundation’s “Helen Keller Prezi
     Assignment”**
     Link: The Saylor Foundation’s [“Helen Keller Prezi
-    Assignment”](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.4-Checkpoint.pdf) (PDF)  
+    Assignment”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.4-Checkpoint.pdf) (PDF)  
         
      Instructions: To complete Unit 4, you will create a presentation
     about Helen Keller’s autobiography, *The Story of My Life*. Follow
     the assignment’s instructions to create your Prezi, and use [this
-    rubric](http://www.saylor.org/site/wp-content/uploads/2014/01/K12ELA7-4.4-CheckpointRubric.pdf) to
+    rubric](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.4-CheckpointRubric.pdf) to
     evaluate your project when you’re done. You must score 9 out of 12
     points to pass the checkpoint. If you do not score at least 9
     points, make revisions your Prezi and assess it again.  
