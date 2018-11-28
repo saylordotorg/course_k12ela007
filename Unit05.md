@@ -364,7 +364,7 @@ specific examples of figurative language that occur in the poems. *
 -   **Activity: Elaine Webber’s *GED Prep and Advanced ESL*: “Poetry
     Analysis Sheet”**
     Link: Elaine Webber’s *GED Prep and Advanced ESL*: [“Poetry Analysis
-    Sheet”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.2.1.2-PoetryAnalysisWorksheet-BY-SA.pdf) (PDF)  
+    Sheet”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.2.1.2-PoetryAnalysisWorksheet-BY-SA.pdf) (PDF)  
         
      Instructions: “Jabberwocky” can be difficult to understand because
     of the many words that Carroll made up. Print the “Poetry Analysis
@@ -488,7 +488,7 @@ id="5.2.2.1"></span> 
 -   **Activity: Elaine Webber’s *GED Prep and Advanced ESL*: “Poetry
     Analysis Sheet”**
     Link: Elaine Webber’s *GED Prep and Advanced ESL*: [“Poetry Analysis
-    Sheet”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.2.1.2-PoetryAnalysisWorksheet-BY-SA.pdf) (PDF)  
+    Sheet”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.2.1.2-PoetryAnalysisWorksheet-BY-SA.pdf) (PDF)  
         
      Instructions: “I, Too, Sing America” is written in free verse, so
     it does not have a specific structure or rhythm. It also does not
@@ -591,7 +591,7 @@ id="5.2.3.1"></span> 
 -   **Activity: Elaine Webber’s *GED Prep and Advanced ESL*: “Poetry
     Analysis Sheet”**
     Link: Elaine Webber’s *GED Prep and Advanced ESL*: [“Poetry Analysis
-    Sheet”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.2.1.2-PoetryAnalysisWorksheet-BY-SA.pdf) (PDF)  
+    Sheet”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.2.1.2-PoetryAnalysisWorksheet-BY-SA.pdf) (PDF)  
         
      Instructions: The poem “A Bird Came Down the Walk” is written with
     specific rhyme and meter patterns. Look over the poem from the
@@ -701,7 +701,7 @@ id="5.3.1"></span> 
     the 15 terms and their meanings. After reviewing the vocabulary
     twice, write an original sentence for each term. If you cannot
     access the website, click
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.3.2-RikkiTikkiTaviVocabulary-BY.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.3.2-RikkiTikkiTaviVocabulary-BY.pdf)
     for a PDF version of the vocabulary words.  
         
      Completing this activity should take approximately 45 minutes.  
@@ -720,7 +720,7 @@ id="5.3.1"></span> 
 -   **Activity: Rita Booth’s *Quarter Horses*: “Guided Reading Questions
     for ‘Rikki-Tikki-Tavi’”**
     Link: Rita Booth’s *Quarter Horses*: [“Guided Reading Questions for
-    ‘Rikki-Tikki-Tavi’”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.3.3-GuidedReadingQuestionsForRikki.pdf) (PDF)  
+    ‘Rikki-Tikki-Tavi’”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.3.3-GuidedReadingQuestionsForRikki.pdf) (PDF)  
         
      Instructions: Print these guided reading questions, or if you
     cannot print, simply respond to the questions in your notebook. You
@@ -768,7 +768,7 @@ id="5.3.1"></span> 
 **5.3.4 Use of Figurative Language** <span id="5.3.4"></span> 
 -   **Activity: is93-ela-7th: “Figurative Language Scavenger Hunt”**
     Link: is93-ela-7<sup>th</sup>: [“Figurative Language Scavenger
-    Hunt”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.3.4-FigurativeLanguageScavengerHunt-BY-SA.doc.pdf) (PDF)  
+    Hunt”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.3.4-FigurativeLanguageScavengerHunt-BY-SA.doc.pdf) (PDF)  
         
      Instructions: Define each term. Use online resources if needed.
     Find an example of each type of figurative language in
@@ -933,7 +933,7 @@ id="5.4.1"></span> 
     Mythology” and “Greek and Roman Mythology: A Review of the Principal
     Gods and Goddesses”**
     Link: *McGavock English 1*: *Mythology*: [“Before Beginning
-    Mythology”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.4.3-BeforeBeginningMythology-BY-SA.doc.pdf) (PDF)
+    Mythology”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.4.3-BeforeBeginningMythology-BY-SA.doc.pdf) (PDF)
     and [“Greek and Roman Mythology: A Review of the Principal Gods and
     Goddesses”](http://www.authorstream.com/Presentation/deames-519363-greek-and-roman-gods-review-ppt/) (PowerPoint)  
         
@@ -993,7 +993,7 @@ id="5.4.1"></span> 
 -   **Activity: Ms. Faulk’s *SLMS - 7th Grade ELA/SS*: “Hercules
     Movie-Text Compare-Contrast”**
     Link: Ms. Faulk’s *SLMS* *- 7th Grade ELA/SS*: [“Hercules Movie-Text
-    Compare-Contrast”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.4.4-Hercules-Movie-TextCompare-Contrast.pdf)
+    Compare-Contrast”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.4.4-Hercules-Movie-TextCompare-Contrast.pdf)
     (PDF)  
         
      Instructions: There are many interpretations of Greek myths such as
@@ -1092,7 +1092,7 @@ id="5.4.1"></span> 
 -   **Activity: Merivale High School: *English Department*: “Perseus
     Questions”**
     Link: Merivale High School: *English Department*: [“Perseus
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.4.5-PerseusQuestions-BY-SA.doc.pdf) (PDF)  
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.4.5-PerseusQuestions-BY-SA.doc.pdf) (PDF)  
         
      Instructions: Answer the questions using complete sentences and
     details from the myth. Skip question number seven.  
@@ -1202,7 +1202,7 @@ exaggeration is important in telling tall tales. *
 -   **Activity: *Portfolio ECOMP 6106*: “Tall Tale Exaggeration
     Worksheet”**
     Link: *Portfolio ECOMP 6106*: [“Tall Tale Exaggeration
-    Worksheet”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.5.3-ExaggerationWorksheet-BY-SA.pdf) (PDF)  
+    Worksheet”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.5.3-ExaggerationWorksheet-BY-SA.pdf) (PDF)  
         
      Instructions: You are going to create your own exaggerations.
     Follow the directions on the worksheet and complete all of the
@@ -1250,7 +1250,7 @@ id="5.5.4"></span> 
 -   **Activity: Danielle Krewda’s *Unit Plans*: “Tall Tales Worksheet
     and Assignment”**
     Link: Danielle Krewda’s *Unit Plans*: [“Tall Tales Worksheet and
-    Assignment”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.5.4-TallTalesWorksheetAndAssignment.pdf) (PDF)  
+    Assignment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.5.4-TallTalesWorksheetAndAssignment.pdf) (PDF)  
         
      Instructions: Open “Tall Tales Worksheet and Assignment” and think
     about how exaggeration is used in “Paul Bunyan Tames the Whistling
@@ -1304,7 +1304,7 @@ id="5.5.4"></span> 
 -   **Activity: Danielle Krewda’s *Unit Plans*: “Tall Tales Worksheet
     and Assignment”**
     Link: Danielle Krewda’s *Unit Plans*: [“Tall Tales Worksheet and
-    Assignment”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.5.4-TallTalesWorksheetAndAssignment.pdf) (PDF)  
+    Assignment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.5.4-TallTalesWorksheetAndAssignment.pdf) (PDF)  
         
      Instructions: Open “Tall Tales Worksheet and Assignment” and think
     about how exaggeration is used in “Brer Fox Goes Hunting,” the
@@ -1333,7 +1333,7 @@ id="5.5.4"></span> 
 **Unit Checkpoint** <span id="5.6"></span> 
 -   **Activity: The Saylor Foundation’s “Unit 5 Review”**
     Link: The Saylor Foundation’s [“Unit 5
-    Review”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.6-Review.pdf) (PDF)  
+    Review”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.6-Review.pdf) (PDF)  
         
      Instructions: It is now time to prepare for the unit assessment.
     Use this guide to assist you in choosing what items to study.  
@@ -1342,12 +1342,12 @@ id="5.5.4"></span> 
 
 -   **Checkpoint: The Saylor Foundation’s “Unit 5 Checkpoint”**
     Link: The Saylor Foundation’s [“Unit 5
-    Checkpoint”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.6-Checkpoint.pdf) (PDF)  
+    Checkpoint”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.6-Checkpoint.pdf) (PDF)  
         
      Instructions: To complete Unit 5, you need to pass the unit
     checkpoint. You cannot use your notes while completing the
     assessment. When you are done, check your work with the [“Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-5.6-CheckpointAnswerKey.pdf).
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-5.6-CheckpointAnswerKey.pdf).
     In order to pass, you need to get 7 out of 10 possible points. If
     you do not pass the first time, review your notes and retake the
     test until you do.  

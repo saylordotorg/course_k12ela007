@@ -113,7 +113,7 @@ into his fictional works. *
     Graphic Organizer”**
     Link: Dylan Dyer’s *Welcome to Colonial America!*: [“Biography
     Graphic
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.1.2-BiographyGraphicOrganizer-BYSA.pdf)
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.1.2-BiographyGraphicOrganizer-BYSA.pdf)
     (PDF)  
         
      Instructions: Now that you have learned about Mark Twain’s life,
@@ -144,7 +144,7 @@ Twain’s novel. *
 
 -   **Explanation: The Saylor Foundation’s “US History/Civil War”**
     Link: The Saylor Foundation’s [“US History/Civil
-    War”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-8-Civil-War.pdf) (PDF)  
+    War”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-8-Civil-War.pdf) (PDF)  
         
      Instructions: Read pages 1 - 5 for some background information on
     the causes and events leading up to the Civil War.  
@@ -290,7 +290,7 @@ comprehension. *
 id="2.3.1.3"></span> 
 -   **Activity: Amber Smith’s “Character Traits Graphic Organizer”**
     Link: Amber Smith’s [“Character Traits Graphic
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.1.3-CharacterTraitsGraphicOrganizer-BY-SA.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.1.3-CharacterTraitsGraphicOrganizer-BY-SA.pdf) (PDF)  
         
      Instructions: Download the PDF file and fill out all sections in
     this organizer. Use the character of Tom Sawyer.  
@@ -417,7 +417,7 @@ comprehension. *
 id="2.3.2.3"></span> 
 -   **Activity: Melissa Oliver’s “Inferences Based on Characters”**
     Link: Melissa Oliver’s [“Inferences Based on
-    Characters”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.2.3-InferencesBasedOnCharacters-BY-SA.pdf) (PDF)  
+    Characters”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.2.3-InferencesBasedOnCharacters-BY-SA.pdf) (PDF)  
         
      Instructions: Download the PDF file and fill out this organizer.
     Use the character of Tom Sawyer and a second character of your
@@ -543,7 +543,7 @@ comprehension. *
 id="2.3.3.3"></span> 
 -   **Activity: Melissa Oliver’s “Using Dialogue to Infer Traits”**
     Link: Melissa Oliver’s [“Using Dialogue to Infer
-    Traits”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.3.3-UsingDialogueToInferTraits-BY-SA.pdf) (PDF)  
+    Traits”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.3.3-UsingDialogueToInferTraits-BY-SA.pdf) (PDF)  
         
      Instructions: Download the PDF file and fill out this organizer.
     Use the character of Tom Sawyer.  
@@ -668,7 +668,7 @@ comprehension. *
 id="2.3.4.3"></span> 
 -   **Activity: Freeology: “Analyzing Characters”**
     Link: Freeology: [“Analyzing
-    Characters”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.4.3-AnalyzingCharacters-BY-SA.pdf) (PDF)  
+    Characters”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.4.3-AnalyzingCharacters-BY-SA.pdf) (PDF)  
         
      Instructions: Download the PDF file and fill out the organizer
     using a character other than Tom Sawyer.  
@@ -793,7 +793,7 @@ comprehension. *
 id="2.3.5.3"></span> 
 -   **Activity: Freeology: “Character Quality Study”**
     Link: Freeology: [“Character Quality
-    Study”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.5.3-CharacterQualities-BY-SA.pdf) (PDF)  
+    Study”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.5.3-CharacterQualities-BY-SA.pdf) (PDF)  
         
      Instructions: Download the PDF file and fill out the organizer
     using a character that you have not analyzed yet.  
@@ -917,7 +917,7 @@ comprehension. *
 id="2.3.6.3"></span> 
 -   **Activity: Amber Smith’s “Character Traits Graphic Organizer”**
     Link: Amber Smith’s [“Character Traits Graphic
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.1.3-CharacterTraitsGraphicOrganizer-BY-SA.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.1.3-CharacterTraitsGraphicOrganizer-BY-SA.pdf) (PDF)  
         
      Instructions: Using the directions provided, fill out all sections
     in this organizer. Use the character of Aunt Polly.  
@@ -1041,7 +1041,7 @@ comprehension. *
 id="2.3.7.3"></span> 
 -   **Activity: Melissa Oliver’s “Inferences Based on Characters”**
     Link: Melissa Oliver’s [“Inferences Based on
-    Characters”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.2.3-InferencesBasedOnCharacters-BY-SA.pdf)
+    Characters”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.2.3-InferencesBasedOnCharacters-BY-SA.pdf)
     (PDF)  
         
      Instructions: Download the PDF file and fill out this organizer.
@@ -1162,7 +1162,7 @@ comprehension. *
 id="2.3.8.3"></span> 
 -   **Activity: Melissa Oliver’s “Using Dialogue to Infer Traits”**
     Link: Melissa Oliver’s [“Using Dialogue to Infer
-    Traits”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.3.3-UsingDialogueToInferTraits-BY-SA.pdf) (PDF)  
+    Traits”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.3.3-UsingDialogueToInferTraits-BY-SA.pdf) (PDF)  
         
      Instructions: Download the PDF file and fill out this organizer.
     Use the character of Huck Finn.  
@@ -1285,7 +1285,7 @@ comprehension. *
 id="2.3.9.3"></span> 
 -   **Activity: Freeology: “Analyzing Characters”**
     Link: Freeology: [“Analyzing
-    Characters”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.4.3-AnalyzingCharacters-BY-SA.pdf) (PDF)  
+    Characters”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.4.3-AnalyzingCharacters-BY-SA.pdf) (PDF)  
         
      Instructions: Download the PDF file and fill out the organizer. Use
     the character of Injun Joe.  
@@ -1409,7 +1409,7 @@ comprehension. *
 id="2.3.10.3"></span> 
 -   **Activity: Citrus County Schools: “Character Study”**
     Link: Citrus County Schools: [“Character
-    Study”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.10.3-CharacterStudy-Permission.pdf) (PDF)  
+    Study”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.10.3-CharacterStudy-Permission.pdf) (PDF)  
         
      Instructions: To really understand a character, it is helpful to
     think from that character’s point of view. As you work through this
@@ -1534,7 +1534,7 @@ comprehension. *
 id="2.3.11.3"></span> 
 -   **Activity: Citrus County Schools: “Character Study”**
     Link: Citrus County Schools: [“Character
-    Study”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.10.3-CharacterStudy-Permission.pdf) (PDF)  
+    Study”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.10.3-CharacterStudy-Permission.pdf) (PDF)  
         
      Instructions: Now, you are going to put yourself in a different
     character’s shoes (any major character of your choosing). Print
@@ -1587,7 +1587,7 @@ id="2.3.11.3"></span> 
 **Unit 2 Assessment** <span id="2.4"></span> 
 -   **Activity: The Saylor Foundation’s “Unit 2 Review”**
     Link: The Saylor Foundation’s [“Unit 2
-    Review”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.4-Review.pdf) (PDF)  
+    Review”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.4-Review.pdf) (PDF)  
         
      Instructions: Now that you have completed Unit 2, you will prepare
     for the “Unit 2 Checkpoint” below. This review activity will help
@@ -1599,12 +1599,12 @@ id="2.3.11.3"></span> 
     Adventures of Tom Sawyer* Quiz”**
     Link: The Saylor Foundation’s [“Unit 2 Checkpoint: *The Adventures
     of Tom Sawyer*
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.5-Unit2Checkpoint.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.5-Unit2Checkpoint.pdf) (PDF)  
         
      Instructions: To complete Unit 2, you need to pass the unit
     checkpoint. You can’t use your notes while completing the
     assessment. When you’re done, check your answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.5-CheckpointAnswerKey.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.5-CheckpointAnswerKey.pdf).
     In order to pass, you need to correctly answer 6 out of 8
     multiple-choice questions and score 15 out of 20 points on the
     written response. If you do not pass the first time, review your

@@ -88,7 +88,7 @@ novel, Jo, on her own life experiences. *
 
 -   **Activity: The Saylor Foundation’s “Louisa May Alcott Timeline”**
     Link: The Saylor Foundation’s [“Louisa May Alcott
-    Timeline”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-6.1-LouisaMayAlcottBiography.pdf) (PDF)  
+    Timeline”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-6.1-LouisaMayAlcottBiography.pdf) (PDF)  
         
      Instructions: After reading Alcott’s biography, use the link above
     to create a timeline of all her major life events. To create a more
@@ -246,7 +246,7 @@ in the novel. *
 id="6.3.1.3"></span> 
 -   **Activity: Amber Smith’s “Character Traits Graphic Organizer”**
     Link: Amber Smith’s [“Character Traits Graphic
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.1.3-CharacterTraitsGraphicOrganizer-BY-SA.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.1.3-CharacterTraitsGraphicOrganizer-BY-SA.pdf) (PDF)  
         
      Instructions: Print this graphic organizer. Follow the prompts
     provided, and fill out all sections in the organizer while using the
@@ -276,7 +276,7 @@ id="6.3.1.3"></span> 
 **6.3.1.4 Literary Devices** <span id="6.3.1.4"></span> 
 -   **Activity: The Saylor Foundation’s “Ice Cream Organizer”**
     Link: The Saylor Foundation’s [“Ice Cream
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-Ice-Cream-Cone-Organizer.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-Ice-Cream-Cone-Organizer.pdf) (PDF)  
         
      Instructions: You are going to be exploring themes in *Little*
     Women. Open the “Ice Cream Organizer” and identify one theme present
@@ -396,7 +396,7 @@ in the novel.*
 id="6.3.2.3"></span> 
 -   **Activity: Melissa Oliver’s “Inferences Based on Characters”**
     Link: Melissa Oliver’s [“Inferences Based on
-    Characters”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.2.3-InferencesBasedOnCharacters-BY-SA.pdf) (PDF)  
+    Characters”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.2.3-InferencesBasedOnCharacters-BY-SA.pdf) (PDF)  
         
      Instructions: Print this graphic organizer. Follow the prompts
     provided and fill out the entire organizer, using the character of
@@ -426,7 +426,7 @@ id="6.3.2.3"></span> 
 **6.3.2.4 Literary Devices** <span id="6.3.2.4"></span> 
 -   **Activity: Freeology: “Story Web”**
     Link: Freeology: [“Story
-    Web”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-6.3.2.4-StoryWeb-BY-SA.pdf) (PDF)  
+    Web”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-6.3.2.4-StoryWeb-BY-SA.pdf) (PDF)  
         
      Instructions: Throughout the novel, the March sisters face many
     conflicts. Identify one conflict that occurs in the chapters that
@@ -538,7 +538,7 @@ in the novel.*
 id="6.3.3.3"></span> 
 -   **Activity: Melissa Oliver’s “Using Dialogue to Infer Traits”**
     Link: Melissa Oliver’s [“Using Dialogue to Infer
-    Traits”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.3.3-UsingDialogueToInferTraits-BY-SA.pdf) (PDF)  
+    Traits”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.3.3-UsingDialogueToInferTraits-BY-SA.pdf) (PDF)  
         
      Instructions: Print this graphic organizer. Follow the prompts
     provided and fill out the organizer, using the character of one of
@@ -694,7 +694,7 @@ in the novel.*
 id="6.3.4.3"></span> 
 -   **Activity: Freeology: “Analyzing Characters”**
     Link: Freeology: [“Analyzing
-    Characters”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.4.3-AnalyzingCharacters-BY-SA.pdf) (HTML)  
+    Characters”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.4.3-AnalyzingCharacters-BY-SA.pdf) (HTML)  
         
      Instructions: Print this graphic organizer. Use the prompts
     provided, and fill out the organizer using the character of one of
@@ -719,7 +719,7 @@ id="6.3.4.3"></span> 
 **6.3.4.4 Literary Devices** <span id="6.3.4.4"></span> 
 -   **Activity: Freeology: “Story Map”**
     Link: Freeology: [“Story
-    Map”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-6.3.4.4-StoryMap-BY-SA.pdf) (PDF)  
+    Map”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-6.3.4.4-StoryMap-BY-SA.pdf) (PDF)  
         
      Instructions: Throughout the novel, the March sisters face many
     conflicts. Focusing on the sister that you have used for past
@@ -835,7 +835,7 @@ in the novel.*
 id="6.3.5.3"></span> 
 -   **Activity: Freeology: “Characterization”**
     Link: Freeology:
-    [“Characterization”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-6.3.5.3-Characterization-BY-SA.pdf) (PDF)  
+    [“Characterization”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-6.3.5.3-Characterization-BY-SA.pdf) (PDF)  
         
      Instructions: Print this graphic organizer. Use the prompts
     provided, and fill out the organizer using the character of one of
@@ -864,7 +864,7 @@ id="6.3.5.3"></span> 
 **6.3.5.4 Literary Devices** <span id="6.3.5.4"></span> 
 -   **Activity: The Saylor Foundation’s “Ice Cream Organizer”**
     Link: The Saylor Foundation’s [“Ice Cream
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-Ice-Cream-Cone-Organizer.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-Ice-Cream-Cone-Organizer.pdf) (PDF)  
         
      Instructions: You are going to further themes in *Little Women*.
     Using this graphic organizer, identify one theme present in the
@@ -978,7 +978,7 @@ in the novel.*
 id="6.3.6.3"></span> 
 -   **Activity: Freeology: “Character Quality Study”**
     Link: Freeology: [“Character Quality
-    Study”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-6.3.6.3-CharacterQualities-BY-SA.pdf) (PDF)  
+    Study”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-6.3.6.3-CharacterQualities-BY-SA.pdf) (PDF)  
         
      Instructions: Print this graphic organizer. Use the prompts
     provided, and fill out the organizer using the character of one of
@@ -1132,7 +1132,7 @@ in the novel.*
 id="6.3.7.3"></span> 
 -   **Activity: Amber Smith’s “Character Traits Graphic Organizer”**
     Link: Amber Smith’s [“Character Traits Graphic
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.1.3-CharacterTraitsGraphicOrganizer-BY-SA.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.1.3-CharacterTraitsGraphicOrganizer-BY-SA.pdf) (PDF)  
         
      Instructions: Print this graphic organizer. Follow the prompts
     provided, and fill out all sections in the organizer while using a
@@ -1162,7 +1162,7 @@ id="6.3.7.3"></span> 
 **6.3.7.4 Literary Devices** <span id="6.3.7.4"></span> 
 -   **Activity: Freeology: “Summarizing”**
     Link: Freeology:
-    [“Summarizing”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-6.3.7.4-Summarizing-BY-SA.pdf) (PDF)  
+    [“Summarizing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-6.3.7.4-Summarizing-BY-SA.pdf) (PDF)  
         
      Instructions: Throughout the novel, the March sisters face many
     conflicts. Identify one conflict that occurred in the chapter
@@ -1245,7 +1245,7 @@ id="6.3.8.2"></span> 
 -   **Activity: *Universal Design of Learning*: Martine Fanfan’s
     “Character Study”**
     Link: *Universal Design of Learning*: Martine Fanfan’s [“Character
-    Study”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.5.3-CharacterStudy-BY-SA.pdf) (PDF)  
+    Study”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-4.3.5.3-CharacterStudy-BY-SA.pdf) (PDF)  
         
      Instructions: To really understand a character, it is helpful to
     think from that character’s point of view. As you work through this
@@ -1275,7 +1275,7 @@ id="6.3.8.2"></span> 
 **6.3.8.3 Literary Devices** <span id="6.3.8.3"></span> 
 -   **Activity: The Saylor Foundation’s “Ice Cream Organizer”**
     Link: The Saylor Foundation’s [“Ice Cream
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-Ice-Cream-Cone-Organizer.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-Ice-Cream-Cone-Organizer.pdf) (PDF)  
         
      Instructions: You are going to further explore themes in *Little
     Women*.Identify a third theme present in the chapters you have read
@@ -1359,7 +1359,7 @@ id="6.3.9.2"></span> 
 -   **Activity: *Universal Design of Learning*: Martine Fanfan’s
     “Character Study”**
     Link: *Universal Design of Learning*: Martine Fanfan’s [“Character
-    Study”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-4.3.5.3-CharacterStudy-BY-SA.pdf) (PDF)  
+    Study”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-4.3.5.3-CharacterStudy-BY-SA.pdf) (PDF)  
         
      Instructions: Now, you are going to put yourself in a different
     character’s shoes (any major character of your choosing other than
@@ -1445,19 +1445,19 @@ id="6.3.9.2"></span> 
     then marry Amy?  
         
      After you have completed the essay, use [this
-    rubric](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-6.4-CompareAndContrastEssayRubric.pdf)
+    rubric](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-6.4-CompareAndContrastEssayRubric.pdf)
     to assess your writing.  
         
      Completing this checkpoint should take approximately 3 hours.
 
 -   **Checkpoint: The Saylor Foundation’s “Unit 6 Checkpoint”**
     Link: The Saylor Foundation’s [“Unit 6
-    Checkpoint”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-6.4-Checkpoint.pdf) (PDF)  
+    Checkpoint”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-6.4-Checkpoint.pdf) (PDF)  
         
      Instructions: To complete Unit 6, you need to pass the unit's
     checkpoint. You cannot use your notes while taking the exam. Check
     your answers with the [“Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-6.4-CheckpointAnswerKey.pdf)
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-6.4-CheckpointAnswerKey.pdf)
     when you are done. In order to pass, you need to get 17 out of 25
     possible points. If you do not pass the first time, review your
     notes and retake the test until you do.  

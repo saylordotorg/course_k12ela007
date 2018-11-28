@@ -153,7 +153,7 @@ analyzing important quotes in the novel. *
     Link: Quizlet: [“Frederick Douglass - Chapters 1 &
     2”](http://quizlet.com/2934604/frederick-douglass-chapters-1-2-flash-cards/) (HTML)
     or [“Frederick Douglass - Chapters 1 &
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-9.3.1.1-FrederickDouglass-Chapters1-2.pdf) (PDF)  
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-9.3.1.1-FrederickDouglass-Chapters1-2.pdf) (PDF)  
         
      Instructions: Access the link to review vocabulary terms and
     definitions for Chapter 1 and Chapter 2, prior to reading them in
@@ -254,7 +254,7 @@ of the book. *
     Link: Quizlet: [“Frederick Douglass - Chapters 3 -
     4”](http://quizlet.com/2934608/frederick-douglass-chapters-3-4-flash-cards/) (HTML)
     or [“Frederick Douglass - Chapters 3 -
-    4”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-9.3.2.1-Frederick-Douglass-Chapters3-4.pdf) (PDF)  
+    4”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-9.3.2.1-Frederick-Douglass-Chapters3-4.pdf) (PDF)  
         
      Instructions: Access the link to review the vocabulary terms and
     definitions for Chapter 3 and Chapter 4 in the book, prior to
@@ -320,7 +320,7 @@ of the book. *
 **9.3.2.3 Literary Device: Themes** <span id="9.3.2.3"></span> 
 -   **Activity: “Ice Cream Cone Organizer”**
     Link: [“Ice Cream Cone
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-Ice-Cream-Cone-Organizer.pdf)
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-Ice-Cream-Cone-Organizer.pdf)
     (PDF)  
         
      Instructions: You are going to be exploring themes in Douglass’s
@@ -352,7 +352,7 @@ context of the book. *
     Link: Quizlet: [“Frederick Douglass: Chapters 5 -
     6”](http://quizlet.com/2934612/frederick-douglass-chapters-5-6-flash-cards/) (HTML)
     or [“Frederick Douglass: Chapters 5 -
-    6”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-9.3.3.1-FrederickDouglass-Chapters5-6.pdf) (PDF)  
+    6”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-9.3.3.1-FrederickDouglass-Chapters5-6.pdf) (PDF)  
         
      Instructions: Access the link to review the vocabulary terms and
     definitions for Chapter 5 and Chapter 6, prior to reading them in
@@ -461,7 +461,7 @@ novel. *
     Link: Quizlet: [“Frederick Douglass: Chapters 7 -
     8”](http://quizlet.com/2934616/frederick-douglass-chapters-7-8-flash-cards/) (HTML)
     or [“Frederick Douglass: Chapters 7 -
-    8”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-9.3.4.1-FrederickDouglass-Chapters7-8.pdf) (PDF)  
+    8”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-9.3.4.1-FrederickDouglass-Chapters7-8.pdf) (PDF)  
         
      Instructions: Access the link to review the vocabulary terms and
     definitions for Chapter 7 and Chapter 8, prior to reading them in
@@ -565,7 +565,7 @@ of the characters over the course of the book.*
     Link: Quizlet: [“Frederick Douglass: Chapters 9 -
     10”](http://quizlet.com/2934623/frederick-douglass-chapters-9-10-flash-cards/) or
     [“Frederick Douglass: Chapters 9 -
-    10”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-9.3.5.1-FrederickDouglass-Chapters-9-10.pdf) (PDF)  
+    10”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-9.3.5.1-FrederickDouglass-Chapters-9-10.pdf) (PDF)  
         
      Instructions: Access the link to review the vocabulary terms and
     definitions for Chapter 9 and Chapter 10 in the book, prior to
@@ -633,7 +633,7 @@ of the characters over the course of the book.*
 id="9.3.5.3"></span> 
 -   **Activity: Freeology “Analyzing Characters”**
     Activity: Freeology [“Analyzing
-    Characters”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-2.3.4.3-AnalyzingCharacters-BY-SA.pdf) (PDF)  
+    Characters”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-2.3.4.3-AnalyzingCharacters-BY-SA.pdf) (PDF)  
         
      Instructions: Choose two characters from the book OTHER than
     Frederick Douglass. Fill in the entire organizer for each character
@@ -666,7 +666,7 @@ the book.*
     Link: Quizlet: [“Frederick Douglass Vocabulary Chapter
     11”](http://quizlet.com/18413070/frederick-douglass-vocabulary-chapter-11-flash-cards/) (HTML)
     or [“Frederick Douglass Vocabulary Chapter
-    11”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-9.3.6.1-FrederickDouglassVocabulary-Chapter11.pdf) (PDF)  
+    11”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-9.3.6.1-FrederickDouglassVocabulary-Chapter11.pdf) (PDF)  
         
      Instructions: Access the link to review the vocabulary terms and
     definitions for Chapter 11 in the book, prior to reading them in the
@@ -727,7 +727,7 @@ the book.*
 **9.3.6.3 Literary Device: Themes** <span id="9.3.6.3"></span> 
 -   **Activity: “Ice Cream Cone Organizer”**
     Link: [“Ice Cream Cone
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-Ice-Cream-Cone-Organizer.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-Ice-Cream-Cone-Organizer.pdf) (PDF)  
         
      Instructions: You are going to be further exploring additional
     themes in Douglass’s narrative*.* Access the link to open the “Ice

@@ -134,7 +134,7 @@ story” in stories that you already know. This information will give you
 a more sophisticated knowledge of how fiction works. *
 -   **Explanation: The Saylor Foundation’s “Parts of a Story”**
     Link: The Saylor Foundation’s [“Parts of a
-    Story”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1-PartsOfAStory-FINAL.pdf)
+    Story”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1-PartsOfAStory-FINAL.pdf)
     (PDF)  
         
      Instructions: Carefully review this presentation and write
@@ -198,7 +198,7 @@ personal connections. *
 -   **Activity: Kimbrough Middle School’s *Kimbrough ELA*: “‘Seventh
     Grade’ Vocabulary”**
     Link: Kimbrough Middle School’s *Kimbrough ELA*: [“‘Seventh Grade’
-    Vocabulary”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1.3.2-SeventhGradeVocab-BY-SA.pdf)
+    Vocabulary”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1.3.2-SeventhGradeVocab-BY-SA.pdf)
     (PDF)  
         
      Instructions: Copy the vocabulary words and definitions from the
@@ -250,7 +250,7 @@ personal connections. *
     Grade’ Reading Comprehension”**
     Link: Kimbrough Middle School’s *Kimbrough ELA*: [“‘Seventh Grade’
     Reading
-    Comprehension”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1.3.3-SeventhGradeVocab2-BY-SA.pdf)
+    Comprehension”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1.3.3-SeventhGradeVocab2-BY-SA.pdf)
     (PDF)  
         
      Instructions: Answer the reading comprehension questions on pages
@@ -518,7 +518,7 @@ formal language. *
 **1.7.1 Examples of Narratives** <span id="1.7.1"></span> 
 -   **Explanation: *Room 4*: “Examples of Narrative Essays”**
     Link: *Room 4*: [“Examples of Narrative
-    Essays”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1.7.1-ExOfNarrativeEssays-BY-SA.pdf) (PDF)  
+    Essays”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1.7.1-ExOfNarrativeEssays-BY-SA.pdf) (PDF)  
         
      Instructions: Open the link titled “Examples of Narrative Essays”
     and read through the student samples. This will help familiarize you
@@ -567,7 +567,7 @@ formal language. *
 
 -   **Explanation: *Room 4*: “How to Write a Narrative Essay”**
     Link: *Room 4*: [“How to Write a Narrative
-    Essay”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1.7.2-HowToWriteANarrativeEssay-BY-SA.pdf) (PDF)  
+    Essay”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1.7.2-HowToWriteANarrativeEssay-BY-SA.pdf) (PDF)  
         
      Instructions: Click on the first link on this page to open the
     document. Read this handout for more information about writing a
@@ -608,7 +608,7 @@ formal language. *
 **1.7.3 Proofreading** <span id="1.7.3"></span> 
 -   **Activity: *Room 4*: “How is Your Essay Assessed?”**
     Link: *Room 4*: [“How Is Your Essay
-    Assessed?”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1.7.3-HowIsYourEssayAssessed-BY-SA.pdf) (PDF)  
+    Assessed?”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1.7.3-HowIsYourEssayAssessed-BY-SA.pdf) (PDF)  
         
      Instructions: Click on the third link to open “How Is Your Essay
     Assessed.” You will use this rubric as you proofread your essay.  
@@ -735,7 +735,7 @@ creates this within his stories.*
 
 -   **Activity: *English with Mrs. M*: “The Black Cat Questions”**
     Link: *English With Mrs. M*: [“The Black Cat
-    Questions”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1.8.3-TheBlackCatQuestions-BY-SA.pdf) (PDF)  
+    Questions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1.8.3-TheBlackCatQuestions-BY-SA.pdf) (PDF)  
         
      Instructions: After reading “The Black Cat,” open this document and
     answer the reading questions. Use details from the story to support
@@ -956,7 +956,7 @@ externally or internally motivated?*
 
 -   **Activity: Freeology: “4 Paragraph Essay Graphic Organizer”**
     Link: Freeology: [“4 Paragraph Essay Graphic
-    Organizer”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1.9.4-4ParagraphEssay-BY-SA.pdf) (PDF)  
+    Organizer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1.9.4-4ParagraphEssay-BY-SA.pdf) (PDF)  
         
      Instructions: Once you have identified at least four differences
     and four similarities between the narrators, complete this
@@ -984,7 +984,7 @@ externally or internally motivated?*
 **Unit 1 Assessment** <span id="1.10"></span> 
 -   **Activity: The Saylor Foundation’s “Unit 1 Review”**
     Link: The Saylor Foundation’s [“Unit 1
-    Review”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1.10-Review.doc.pdf) (PDF)  
+    Review”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1.10-Review.doc.pdf) (PDF)  
         
      Instructions: It is now time to prepare for the unit assessment.
     Use this review to assist you in choosing what items to study.  
@@ -993,12 +993,12 @@ externally or internally motivated?*
 
 -   **Checkpoint: The Saylor Foundation’s “Unit 1 Checkpoint”**
     Link: The Saylor Foundation’s [“Unit 1
-    Checkpoint”](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1-Checkpoint.pdf) (PDF)  
+    Checkpoint”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1-Checkpoint.pdf) (PDF)  
         
      Instructions: To complete Unit 1, you need to pass the unit
     checkpoint. You can’t use your notes while taking this assessment.
     When you’re done, check your answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/12/K12ELA7-Unit1-CheckpointAnswerKey.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/12/K12ELA7-Unit1-CheckpointAnswerKey.pdf).
     In order to pass, you need to get 7 out of 10 possible points. If
     you do not pass the first time, review your notes and retake the
     test until you do.  
