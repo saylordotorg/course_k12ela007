@@ -388,7 +388,7 @@ id="8.2.5"></span> 
 -   **Activity: Mrs. Woronko’s *Research Writing Worksheets*:
     “Plagiarism”**
     Link: Mrs. Woronko’s [*Research Writing
-    Worksheets:*](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-8.2.6-Plagiarism.pdf)[“Plagiarism”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-8.2.6-Plagiarism.pdf) (PDF)  
+    Worksheets:*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-8.2.6-Plagiarism.pdf)[“Plagiarism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-8.2.6-Plagiarism.pdf) (PDF)  
         
      Instructions: Read this entire sheet, taking notes on the major
     points covered. Complete all activities and assessments included in
@@ -427,7 +427,7 @@ id="8.2.7"></span> 
     referencing your sources properly. You must give credit to all of
     the sources that you use, in proper MLA format. To become accustomed
     to this format, read the guide titled
-    “[CMSMLABklt7ed”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-8.2.7-CMSMLABklt7ed-BY-SA.pdf) (PDF)
+    “[CMSMLABklt7ed”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-8.2.7-CMSMLABklt7ed-BY-SA.pdf) (PDF)
     and watch the slideshows on the webpage. Since this format can be
     difficult to master, pay special attention to the section on free
     citation makers available on the Internet that’s at the bottom of
@@ -584,9 +584,9 @@ id="8.2.8"></span> 
 -   **Activity: Mrs. Woronko’s *Research Writing Worksheets*: “Five Keys
     Rubric BEST”**
     Link: Mrs. Woronko’s *[Research Writing
-    Worksheets](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-8.2.11-FiveKeysRubric.pdf)*[:
+    Worksheets](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-8.2.11-FiveKeysRubric.pdf)*[:
     Five Keys Rubric
-    BEST”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-8.2.11-FiveKeysRubric.pdf) (PDF)  
+    BEST”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-8.2.11-FiveKeysRubric.pdf) (PDF)  
         
      Instructions: Use the rubric to score your paper. If possible, have
     an adult score your paper using the rubric. Multiply the final score

@@ -86,7 +86,7 @@ will use these ideas later to write your own persuasive piece. *
         
      Instructions: Read the introduction of the webpage and then open
     the file [“Persuasive
-    Writing”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.1.1-PersuasiveWriting-BY-SA.pdf) (PDF).
+    Writing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.1.1-PersuasiveWriting-BY-SA.pdf) (PDF).
     Take notes in your notebook on the elements of persuasive writing
     that are defined in the document.  
         
@@ -234,9 +234,9 @@ id="7.2.2"></span> 
     Persuade”](http://resources.saylor.org/K12ELA/K12ELA007/Unit%207/K12ELA7-7.2.2-UsingLanguageToPersuade-BY-SA_files/K12ELA7-7.2.2-UsingLanguageToPersuade-BY-SA.html) (HTML)  
         
      Instructions: Open the documents [“Persuasive Techniques
-    Handout.pdf”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.2.2-PersuasiveTechniquesHandout-BY-SA1.pdf)
+    Handout.pdf”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.2.2-PersuasiveTechniquesHandout-BY-SA1.pdf)
     and [“Second Persuasive Language
-    Handout.pdf”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.2.2-SecondPersuasiveLanguageHandout-BY-SA1.pdf).
+    Handout.pdf”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.2.2-SecondPersuasiveLanguageHandout-BY-SA1.pdf).
     Read the information thoroughly. In your notebook, create a list of
     five “Dos and Don’ts” for persuasive writing.  
         
@@ -338,7 +338,7 @@ id="7.3.1"></span> 
     first time playing, review your definitions and try again.  
         
      Note: If you are unable to access Quizlet,
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-FLC-Unit-7-7.3.3-Ethos-Pathos-Logos.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-FLC-Unit-7-7.3.3-Ethos-Pathos-Logos.pdf)
     are flashcards that you can use to quiz yourself.  
         
      Completing this activity should take approximately 15 minutes.  
@@ -397,11 +397,11 @@ along with your argument and being persuaded.*
 -   **Explanation: Ms. Serrano’s *English III*: “Phrases and Clauses,”
     “Clauses Review,” and “Review Exercises”**
     Link: Ms. Serrano’s *English III*: [“Phrases and
-    Clauses”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.4.1.2-PhrasesAndClauses-BY-SA.pdf) (PDF),
+    Clauses”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.4.1.2-PhrasesAndClauses-BY-SA.pdf) (PDF),
     [“Clauses
-    Review”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.4.1.2-ClausesReview-BY-SA.pdf) (PDF),
+    Review”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.4.1.2-ClausesReview-BY-SA.pdf) (PDF),
     and [“Review
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.4.1.2-ReviewExercises-BY-SA.pdf) (PDF)  
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.4.1.2-ReviewExercises-BY-SA.pdf) (PDF)  
         
      Instructions: View the PowerPoint presentation titled “Phrases and
     Clauses,” writing the definitions and given examples in your
@@ -428,11 +428,11 @@ along with your argument and being persuaded.*
 -   **Did I Get This? Activity: *English VII*: “Phrases, Clauses:
     Exercise - Bite A”**
     Link: *English VII*: [“Phrases, Clauses: Exercise - Bite
-    A”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.4.1.3-PhrasesClausesExercise%E2%88%92BiteA-BY-SA.pdf) (PDF)  
+    A”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.4.1.3-PhrasesClausesExercise%E2%88%92BiteA-BY-SA.pdf) (PDF)  
         
      Instructions: Complete the above exercise in your notebook. When
     you are finished, check your answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.4.1.3-Exercise-BiteA-BY-SA.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.4.1.3-Exercise-BiteA-BY-SA.pdf).  
         
      Completing this activity should take approximately 30 minutes.  
         
@@ -454,7 +454,7 @@ along with your argument and being persuaded.*
 -   **Explanation: *MCMS 8th Grade*: “Persuasive Writing: Pro and Con
     Chart”**
     Link: *MCMS 8th Grade*: [“Persuasive Writing: Pro and Con
-    Chart”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.4.3-ProAndConChart-BY-SA.pdf) (PDF)  
+    Chart”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.4.3-ProAndConChart-BY-SA.pdf) (PDF)  
         
      Instructions: Take your topic from your earlier brainstorming
     session and follow the instructions for creating a “Pro and Con
@@ -513,7 +513,7 @@ along with your argument and being persuaded.*
 -   **Activity: *MCMS 8th Grade*: “Persuasive Writing: Persuasive
     Planning Sheet”**
     Link: *MCMS 8th Grade*: [“Persuasive Writing: Persuasive Planning
-    Sheet”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.4.4-PersuasivePlanningSheet-BY-SA.pdf) (PDF)  
+    Sheet”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.4.4-PersuasivePlanningSheet-BY-SA.pdf) (PDF)  
         
      Instructions: To plan your essay, complete the planning sheet,
     using good details to support your arguments. When choosing details
@@ -549,7 +549,7 @@ along with your argument and being persuaded.*
     “Persuasive Writing Checklist”**
     Link: Sherwood Ridge Public School: Mrs. Tocher’s
     *6/5T *[“Persuasive Writing
-    Checklist”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12ELA7-7.4.5-Persuasive-WritingSelfEditChecklist-BY-SA.pdf) (PDF)  
+    Checklist”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12ELA7-7.4.5-Persuasive-WritingSelfEditChecklist-BY-SA.pdf) (PDF)  
         
      Instructions: Use this checklist to review the rough draft of your
     five-paragraph essay. Make necessary corrections, ignoring the
